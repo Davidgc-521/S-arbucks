@@ -18,6 +18,7 @@ body{
 	background: #FFFFFF;
 	width: 100%;
 	margin: 30px;
+	cursor: pointer;
 }
 
 ul{
@@ -58,6 +59,7 @@ li a:hover{
 	color: green;
 	border-radius: 80px;
 	border-color: green;
+	cursor: pointer;
 }
 
 #texto{

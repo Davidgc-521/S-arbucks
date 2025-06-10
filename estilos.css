@@ -27,7 +27,6 @@ ul{
 	overflow: hidden;
 	position: sticky;
 	top: 0;
-	cursor: pointer;
 }
  
 li{
@@ -54,12 +53,10 @@ li a:hover{
 }
 
 #boton{
-	
 	background: #D1F6E4;
 	color: green;
 	border-radius: 80px;
 	border-color: green;
-	cursor: pointer;
 }
 
 #texto{
